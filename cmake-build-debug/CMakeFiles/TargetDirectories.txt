@@ -1,0 +1,3 @@
+C:/Users/yarik/CLionProjects/SBoxDereviankoFactorial/cmake-build-debug/CMakeFiles/SBoxDereviankoFactorial.dir
+C:/Users/yarik/CLionProjects/SBoxDereviankoFactorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarik/CLionProjects/SBoxDereviankoFactorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
